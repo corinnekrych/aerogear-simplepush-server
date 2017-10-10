@@ -141,6 +141,16 @@
             </goals>
           </execution>
         </executions>
+      
+        <configuration>
+          <resources>
+            <labels>
+              <all>
+                <space>testoct91507561121972</space>
+              </all>
+            </labels>
+          </resources>
+        </configuration>
       </plugin>
     </plugins>
     <pluginManagement>
